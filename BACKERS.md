@@ -215,3 +215,16 @@ Thank you to the awesome backers who supported Tab Session Manager!
 - Tristan
 - Conner Goldsmith
 - Preston A. Rickwood
+- Jay Dhanoa
+- Reso
+- bruno bond
+- Karis Wiewiurkaris
+- MikeV
+- fins.right
+- breadwrap
+- Lars Nordstrøm
+- Karl Klingler
+- Peter L
+- Den Naka
+- janeDoe
+- Veggieleezy 
